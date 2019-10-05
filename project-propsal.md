@@ -9,6 +9,6 @@
 As of now, we are hoping to create a Heroku app that will allow users to explore and visualize the data. We would like to have a simple Leaflet map that will show the locations of all stadiums with tooltips that give the basic.
 Stats to show: Home and away win percentage, TD converted home vs away, field goal attempted home vs away, field goal converted home vs away, percentage of FG conversion. Stats will show for the netire NFL, by stadium and by team.
 
-**API used:** 
-(https://sportsreference.readthedocs.io/en/stable/nfl.html#player)
+**API used:** <br>
+(https://sportsreference.readthedocs.io/en/stable/nfl.html#player)<br>
 (https://api.nfl.com/docs/getting-started/index.html)
