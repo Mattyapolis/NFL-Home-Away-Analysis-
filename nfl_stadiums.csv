@@ -1,33 +1,33 @@
 ﻿stadium_abbr_logo,stadium_abbv_sf,stadium_home_team,stadium_name,stadium_capacity,stadium_location,stadium_surface,stadium_roof_type,stadium_opened,stadium_latitude,stadium_longitude
-ARI,CRD,Arizona Cardinals,State Farm Stadium,"63,400","Glendale, Arizona",Real Grass,Retractable,2006,33.538651,-112.185989
+ARI,CRD,Arizona Cardinals,State Farm Stadium,"63,400","Glendale, Arizona",Natural Grass,Retractable,2006,33.538651,-112.185989
 ATL,ATL,Atlanta Falcons,Mercedes-Benz Stadium,"71,000","Atlanta, Georgia",Synthetic Grass,Retractable,2017,33.748997,-84.387985
-BAL,RAV,Baltimore Ravens,M&T Bank Stadium,"71,008","Baltimore, Maryland",Real Grass,Open,1998,39.2779,-76.6227
+BAL,RAV,Baltimore Ravens,M&T Bank Stadium,"71,008","Baltimore, Maryland",Natural Grass,Open,1998,39.2779,-76.6227
 BUF,BUF,Buffalo Bills,New Era Field,"71,608","Orchard Park, New York",Synthetic Grass,Open,1973,42.76746,-78.743912
-CAR,CAR,Carolina Panthers,Bank of America Stadium,"75,523","Charlotte, North Carolina",Real Grass,Open,1996,35.22584,-80.85331
-CHI,CHI,Chicago Bears,Soldier Field,"61,500","Chicago, Illinois",Real Grass,Open,1924,41.8625,-87.61677
+CAR,CAR,Carolina Panthers,Bank of America Stadium,"75,523","Charlotte, North Carolina",Natural Grass,Open,1996,35.22584,-80.85331
+CHI,CHI,Chicago Bears,Soldier Field,"61,500","Chicago, Illinois",Natural Grass,Open,1924,41.8625,-87.61677
 CIN,CIN,Cincinnati Bengals,Paul Brown Stadium,"65,515","Cincinnati, Ohio",Synthetic Grass,Open,2000,39.09532,-84.51623
-CLE,CLE,Cleveland Browns,FirstEnergy Stadium,"67,895","Cleveland, Ohio",Real Grass,Open,1999,41.499321,-81.694359
+CLE,CLE,Cleveland Browns,FirstEnergy Stadium,"67,895","Cleveland, Ohio",Natural Grass,Open,1999,41.499321,-81.694359
 DAL,DAL,Dallas Cowboys,AT&T Stadium,"80,000","Arlington, Texas",Synthetic Grass,Retractable,2009,32.735687,-97.108063
-DEN,DEN,Denver Broncos,Empower Field at Mile High,"76,125","Denver, Colorado",Real Grass,Open,2001,39.739235,39.739235
+DEN,DEN,Denver Broncos,Empower Field at Mile High,"76,125","Denver, Colorado",Natural Grass,Open,2001,39.739235,39.739235
 DET,DET,Detroit Lions,Ford Field,"65,000","Detroit, Michigan",Synthetic Grass,Closed,2002,42.34005,-83.04564
-GB,GNB,Green Bay Packers,Lambeau Field,"81,441","Green Bay, Wisconsin",Real Grass,Open,1957,44.50117,-88.06223
+GB,GNB,Green Bay Packers,Lambeau Field,"81,441","Green Bay, Wisconsin",Natural Grass,Open,1957,44.50117,-88.06223
 HOU,HTX,Houston Texans,NRG Stadium,"72,220","Houston, Texas",Synthetic Grass,Retractable,2002,29.760427,-95.369804
 IND,CLT,Indianapolis Colts,Lucas Oil Stadium,"67,000","Indianapolis, Indiana",Synthetic Grass,Retractable,2008,39.76,-86.16361
-JAX,JAX,Jacksonville Jaguars,TIAA Bank Field,"69,132","Jacksonville, Florida",Real Grass,Open,1995,30.332184,-81.655647
-KC,KAN,Kansas City Chiefs,Arrowhead Stadium,"76,416","Kansas City, Missouri",Real Grass,Open,1972,39.04895,-94.48388
-LAC,SDG,Los Angeles Chargers,Dignity Health Sports Park,"27,000","Carson, California",Real Grass,Open,2003,33.864,-118.261
-LA,RAM,Los Angeles Rams,Los Angeles Memorial Coliseum,"78,500","Los Angeles, California",Real Grass,Open,1923,34.052235,-118.243683
+JAX,JAX,Jacksonville Jaguars,TIAA Bank Field,"69,132","Jacksonville, Florida",Natural Grass,Open,1995,30.332184,-81.655647
+KC,KAN,Kansas City Chiefs,Arrowhead Stadium,"76,416","Kansas City, Missouri",Natural Grass,Open,1972,39.04895,-94.48388
+LAC,SDG,Los Angeles Chargers,Dignity Health Sports Park,"27,000","Carson, California",Natural Grass,Open,2003,33.864,-118.261
+LA,RAM,Los Angeles Rams,Los Angeles Memorial Coliseum,"78,500","Los Angeles, California",Natural Grass,Open,1923,34.052235,-118.243683
 MIA,MIA,Miami Dolphins,Hard Rock Stadium,"65,326","Miami Gardens, Florida",Synthetic Grass,Open,1987,25.927231,-80.228477
 MIN,MIN,Minnesota Vikings,U.S. Bank Stadium,"66,655","Minneapolis, Minnesota",Synthetic Grass,Closed,2016,44.977489,-93.264374
 NE,NWE,New England Patriots,Gillette Stadium,"66,829","Foxborough, Massachusetts",Synthetic Grass,Open,2002,42.09188,-71.26491
 NO,NOR,New Orleans Saints,Mercedes-Benz Superdome,"73,208","New Orleans, Louisiana",Synthetic Grass,Closed,1975,29.951065,-90.071533
 NYG,NYG,New York Giants,MetLife Stadium,"82,500","East Rutherford, New Jersey",Synthetic Grass,Open,2010,40.831799,-74.097893
 NYJ,NYJ,New York Jets,MetLife Stadium,"82,500","East Rutherford, New Jersey",Synthetic Grass,Open,2010,40.831799,-74.097893
-OAK,RAI,Oakland Raiders,RingCentral Coliseum,"56,057","Oakland, California",Real Grass,Open,1966,37.804363,-122.271111
-PHI,PHI,Philadelphia Eagles,Lincoln Financial Field,"69,596","Philadelphia, Pennsylvania",Real Grass,Open,2003,39.90147,-75.16729
-PIT,PIT,Pittsburgh Steelers,Heinz Field,"68,400","Pittsburgh, Pennsylvania",Real Grass,Open,2001,40.44673,-80.01574
-SF,SFO,San Francisco 49ers,Levi's Stadium,"68,500","Santa Clara, California",Real Grass,Open,2014,37.354107,-121.955238
+OAK,RAI,Oakland Raiders,RingCentral Coliseum,"56,057","Oakland, California",Natural Grass,Open,1966,37.804363,-122.271111
+PHI,PHI,Philadelphia Eagles,Lincoln Financial Field,"69,596","Philadelphia, Pennsylvania",Natural Grass,Open,2003,39.90147,-75.16729
+PIT,PIT,Pittsburgh Steelers,Heinz Field,"68,400","Pittsburgh, Pennsylvania",Natural Grass,Open,2001,40.44673,-80.01574
+SF,SFO,San Francisco 49ers,Levi's Stadium,"68,500","Santa Clara, California",Natural Grass,Open,2014,37.354107,-121.955238
 SEA,SEA,Seattle Seahawks,CenturyLink Field,"69,000","Seattle, Washington",Synthetic Grass,Open,2002,47.606209,-122.332069
-TB,TAM,Tampa Bay Buccaneers,Raymond James Stadium,"65,890","Tampa, Florida",Real Grass,Open,1998,27.97884,-82.50349
-TEN,OTI,Tennessee Titans,Nissan Stadium,"69,143","Nashville, Tennessee",Real Grass,Open,1999,36.162663,-86.781601
-WAS,WAS,Washington Redskins,FedExField,"82,000","Landover, Maryland",Real Grass,Open,1997,38.933601,-76.907112
+TB,TAM,Tampa Bay Buccaneers,Raymond James Stadium,"65,890","Tampa, Florida",Natural Grass,Open,1998,27.97884,-82.50349
+TEN,OTI,Tennessee Titans,Nissan Stadium,"69,143","Nashville, Tennessee",Natural Grass,Open,1999,36.162663,-86.781601
+WAS,WAS,Washington Redskins,FedExField,"82,000","Landover, Maryland",Natural Grass,Open,1997,38.933601,-76.907112
