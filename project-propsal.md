@@ -1,5 +1,6 @@
 # Project 3
-**Group:** John Goodale, Julia Smith, Julia Sweet, Kyle Younghans, Matt Garcia and Ricardo Bonner<br>
+**Group:** John Goodale, Julia Smith, Julia Sweet, Kyle Younghans, Matt Garcia and Ricardo Bonner
+
 **Topic:** 2018 Home and Away Team Success Analysis<br>
 
 **Question:** Do home teams perform better then away teams?<br>
