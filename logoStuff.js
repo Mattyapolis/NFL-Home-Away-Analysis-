@@ -11,5 +11,5 @@ var teamIcon = L.icon({
 
 //next, will add:
 
-L.marker([lat, lon], { icon: greenIcon }).addTo(map); //lat, lon will obviously need to refer to
+L.marker([lat, lon], { icon: teamIcon }).addTo(map); //lat, lon will obviously need to refer to
 //stadium.json as well
