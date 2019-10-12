@@ -15,8 +15,8 @@ HOU,Houston Texans,NRG Stadium,"72,220","Houston, Texas",Synthetic Grass,Retract
 IND,Indianapolis Colts,Lucas Oil Stadium,"67,000","Indianapolis, Indiana",Synthetic Grass,Retractable,2008,39.76,-86.16361
 JAX,Jacksonville Jaguars,TIAA Bank Field,"69,132","Jacksonville, Florida",Natural Grass,Open,1995,30.332184,-81.655647
 KC,Kansas City Chiefs,Arrowhead Stadium,"76,416","Kansas City, Missouri",Natural Grass,Open,1972,39.04895,-94.48388
-LAC,Los Angeles Chargers,Dignity Health Sports Park,"27,000","Carson, California",Natural Grass,Open,2003,33.864,-118.261
-LA,Los Angeles Rams,Los Angeles Memorial Coliseum,"78,500","Los Angeles, California",Natural Grass,Open,1923,34.052235,-118.243683
+LAC,Los Angeles Chargers (2017-Current),Dignity Health Sports Park,"27,000","Carson, California",Natural Grass,Open,2003,33.864,-118.261
+LA,Los Angeles Rams (2016-Current),Los Angeles Memorial Coliseum,"78,500","Los Angeles, California",Natural Grass,Open,1923,34.052235,-118.243683
 MIA,Miami Dolphins,Hard Rock Stadium,"65,326","Miami Gardens, Florida",Synthetic Grass,Open,1987,25.927231,-80.228477
 MIN,Minnesota Vikings,U.S. Bank Stadium,"66,655","Minneapolis, Minnesota",Synthetic Grass,Closed,2016,44.977489,-93.264374
 NE,New England Patriots,Gillette Stadium,"66,829","Foxborough, Massachusetts",Synthetic Grass,Open,2002,42.09188,-71.26491
@@ -31,3 +31,5 @@ SEA,Seattle Seahawks,CenturyLink Field,"69,000","Seattle, Washington",Synthetic 
 TB,Tampa Bay Buccaneers,Raymond James Stadium,"65,890","Tampa, Florida",Natural Grass,Open,1998,27.97884,-82.50349
 TEN,Tennessee Titans,Nissan Stadium,"69,143","Nashville, Tennessee",Natural Grass,Open,1999,36.162663,-86.781601
 WAS,Washington Redskins,FedExField,"82,000","Landover, Maryland",Natural Grass,Open,1997,38.933601,-76.907112
+STL,St. Louis Rams (2009-2015),Edward Jones Dome,"67,277","St. Louis, MO",Synthetic Grass,Closed,1995,38.627003,-90.199402
+SD,San Diego Chargers (2009-2016),Qualcomm Stadium,"70,561","San Diego, CA",Natural Grass,Open,1967,32.715736,-117.161087
