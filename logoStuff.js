@@ -8,3 +8,8 @@ var teamIcon = L.icon({
 
 //Need to put logos folder into our static folder. "teamame" above is a stand-in for whatever we 
 //for variable in stadium.json
+
+//next, will add:
+
+L.marker([lat, lon], { icon: greenIcon }).addTo(map); //lat, lon will obviously need to refer to
+//stadium.json as well
