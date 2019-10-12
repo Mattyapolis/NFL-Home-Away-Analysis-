@@ -1,4 +1,4 @@
-,Team,Win %,homeWin %,homeLoss %,awayWin %,awayLoss %,own_score@home,other_score@home,own_score@away,other_score@away,stadium_latitude,stadium_longitude
+,Team,Win Avg,homeWin Avg,homeLoss Avg,awayWin Avg,awayLoss Avg,own_score@home,other_score@home,own_score@away,other_score@away,stadium_latitude,stadium_longitude
 0,ARI,0.1875,0.125,0.875,0.25,0.75,12.25,23.875,15.875,29.25,33.538651,-112.18598899999999
 1,ATL,0.4375,0.5,0.5,0.375,0.625,29.5,26.875,22.25,26.0,33.748996999999996,-84.387985
 2,BAL,0.625,0.75,0.25,0.5,0.5,27.125,17.25,21.5,18.625,39.2779,-76.6227

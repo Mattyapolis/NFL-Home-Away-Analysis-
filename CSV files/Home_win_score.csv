@@ -1,4 +1,4 @@
-Team,Win %,homeWin %,homeLoss %,awayWin %,awayLoss %,own_score@home,other_score@home,own_score@away,other_score@away
+Team,Win Avg,homeWin Avg,homeLoss Avg,awayWin Avg,awayLoss Avg,own_score@home,other_score@home,own_score@away,other_score@away
 ARI,0.1875,0.125,0.875,0.25,0.75,12.25,23.875,15.875,29.25
 ATL,0.4375,0.5,0.5,0.375,0.625,29.5,26.875,22.25,26.0
 BAL,0.625,0.75,0.25,0.5,0.5,27.125,17.25,21.5,18.625
