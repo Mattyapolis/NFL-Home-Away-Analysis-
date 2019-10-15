@@ -15,7 +15,7 @@ function createFeatures(NFLdata) {
   // Create popup 
  onEachFeature : function (feature, layer) {
     layer.bindPopup("<h3>" + feature.properties.stadium_location +
-      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name + "</p>"+ "<img src=' static/js/logos/"+ feature.properties.abrv +".png' />")
+      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name +"<p> Stadium Capacity: " +  feature.properties.stadium_capacity + "</p>"+ "<img src=' static/js/logos/"+ feature.properties.abrv +".png' />")
     },     pointToLayer: function (feature, latitude, longitude) {
       return new L.circleMarker(latitude, longitude)},
     style: 
