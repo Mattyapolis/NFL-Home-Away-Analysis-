@@ -1,7 +1,7 @@
 // API link 
 var link = "https://raw.githubusercontent.com/Mattyapolis/NFL-Home-Away-Analysis-/nlf-stadium-map/Json%20files/nflStadium.geojson"
 function markersize(stadium_capacity) {
-  return stadium_capacity * 300000;
+  return stadium_capacity * 15000000000;
 }
 //Define colors
 // function markercolor(mag) {
@@ -30,15 +30,15 @@ function createFeatures(NFLdata) {
   // Create popup 
  onEachFeature : function (feature, layer) {
     layer.bindPopup("<h3>" + feature.properties.stadium_location +
-      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name + "</p>")
+      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name + "</p>"+ "<img src=' logos/"+ feature.properties.abrv +".png' />")
     },     pointToLayer: function (feature, latitude, longitude) {
-      return new L.circle(latitude, longitude,
-        {radius: markersize(feature.properties.stadium_capacity),
-//         fillColor: markercolor(feature.properties.mag),
+      return new L.circleMarker(latitude, longitude)},
+    style: 
+        {radius: 10,
+        fillColor: "#2d22a1",
         fillOpacity: 1,
-        stroke: false,
-    })
-  }
+        stroke: false
+    }
   });
     
   createMap(NFLstadiums);
