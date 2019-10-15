@@ -3,22 +3,7 @@ var link = "https://raw.githubusercontent.com/Mattyapolis/NFL-Home-Away-Analy
 function markersize(stadium_capacity) {
   return stadium_capacity * 15000000000;
 }
-//Define colors
-// function markercolor(mag) {
-//   if (mag <= 1) {
-//       return "#ADFF2F";
-//   } else if (mag <= 2) {
-//       return "#9ACD32";
-//   } else if (mag <= 3) {
-//       return "#FFFF00";
-//   } else if (mag <= 4) {
-//       return "#ffd700";
-//   } else if (mag <= 5) {
-//       return "#FFA500";
-//   } else {
-//       return "#FF0000";
-//   };
-// }
+
 // query URL and convert to json 
 d3.json(link, function(data) {
 
@@ -30,7 +15,7 @@ function createFeatures(NFLdata) {
   // Create popup 
  onEachFeature : function (feature, layer) {
     layer.bindPopup("<h3>" + feature.properties.stadium_location +
-      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name + "</p>"+ "<img src=' logos/"+ feature.properties.abrv +".png' />")
+      "</h3><hr><p>" + feature.properties.team + "</p>" + "<p> Stadium Name: " +  feature.properties.stadium_name + "</p>"+ "<img src=' static/js/logos/"+ feature.properties.abrv +".png' />")
     },     pointToLayer: function (feature, latitude, longitude) {
       return new L.circleMarker(latitude, longitude)},
     style: 
@@ -74,22 +59,5 @@ function createMap(NFLstadiums) {
   L.control.layers(basemaps, overmaps, {
     collapsed: false
   }).addTo(myMap);
-//   var legend = L.control({position: 'bottomright'});
-//   legend.onAdd = function () {
-//   
-//       var div = L.DomUtil.create('div', ' info legend'),
-//           grades = [0, 1, 2, 3, 4, 5];
-
-//   var colors = ["#ADFF2F","#9ACD32","#FFFF00","#ffd700","#FFA500","#FF0000"]
-
-    
-// for (var i = 0; i < grades.length; i++) {
-//     div.innerHTML +=
-//       "<i style='background: " + colors[i] + "'></i> " +
-//       grades[i] + (grades[i + 1] ? "&ndash;" + grades[i + 1] + "<br>" : "+");
-//   }
-//   return div;
-// };
-
-//   legend.addTo(myMap);
+;
 }
